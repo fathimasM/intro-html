@@ -6,7 +6,7 @@ git checkout main
 git merge --no-ff fathimasM-patch-1
 git push origin main
 
-git checkout main
+
 
 
 
