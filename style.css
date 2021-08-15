@@ -6,7 +6,7 @@ body {
     background-size: cover;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
-    color: #000;
+    color: #black;
     display: grid;
     align-items: left;
     grid-template-columns: 300px auto;
