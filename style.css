@@ -8,7 +8,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     color: #black;
     display: grid;
-    align-items: left;
+    align-items: right;
     grid-template-columns: 300px auto;
     background-repeat: no-repeat;
 }
